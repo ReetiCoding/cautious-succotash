@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(crimson,lavender,skyblue);
+    background-position: center;
+    }
+    
+    p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:crimson;
+    font-size: larger;
+    background-position: center;
+    }
+    
+    p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:aqua;
+    font-size: larger;
+    background-position: center;
+    }
+
+    h1{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: blueviolet;
+        font-size: larger;
+        background-position: center;
+        }
